@@ -1,0 +1,6 @@
+rectangle #B7B7B7 0 380 800 500
+ellipse #FCC846 45 45 35 35
+rectangle #EB5757 200 200 600 380
+triangle #EB5757 200 200 400 100 600 200
+rectangle #EB5757 350 260 450 320
+regular_polygon #FF0000 400 150 30 30
